@@ -4,3 +4,6 @@ h1{
 p.accroche{
     text-align: center;
 }
+p.nom{
+    text-align:right;
+}
