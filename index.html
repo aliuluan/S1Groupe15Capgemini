@@ -1,28 +1,39 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <title>Mon Site</title>
+    <link rel="stylesheet" href="index.css">
+    <title>Accueil</title>
 </head>
 <body>
-    <header>
-        <div class="navbar">
-            <div class="menu-icon">&#9776;</div>
-            <div class="menu">
+    <h1>Accueil</h1>
+    <nav>
+        <ul>
+            <li><a href="Histoire.html">Histoire</a></li>
+            <li><a href="Projet.html">Projet</a></li>
+            <li><a href="Environnement.html">Environnement</a></li>
+            <li><a href="Activités.html">Activités</a></li>
+            <li><a href="Economie.html">Économie</a></li>
+            <div id="mySidenav" class="sidenav">
+                <a id="closeBtn" href="#" class="close">×</a>
                 <ul>
-                    <li><a href="index.html">Accueil</a></li>
-                    <li><a href="Histoire.html">Histoire</a></li>
-                    <li><a href="Projet.html">Projet</a></li>
-                    <li><a href="Environnement.html">Environnement</a></li>
-                    <li><a href="Activités.html">Activités</a></li>
-                    <li><a href="Economie.html">Économie</a></li>
+                  <li><a href="#">A propos</a></li>
+                  <li><a href="#">Nos services</a></li>
+                  <li><a href="#">Témoignages</a></li>
+                  <li><a href="#">Contact</a></li>
                 </ul>
-            </div>
-        </div>
-    </header>
-
-
+              </div>
+              
+              <a href="#" id="openBtn">
+                <span class="burger-icon">
+                  <span></span>
+                  <span></span>
+                  <span></span>
+                </span>
+              </a>
+              
+        </ul>
+    </nav>
 </body>
 </html>
