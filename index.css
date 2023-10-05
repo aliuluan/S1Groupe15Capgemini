@@ -1,14 +1,43 @@
-nav {
-    background-color: #003C57;
-    color: white;
-}
-li a {
-    text-decoration: none;
-    color: white;
-    font-weight: bold;
+/* Réinitialisation des styles et styles de base */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
 }
 
+/* Style de la barre bleu clair en haut de la page */
+header {
+    background-color: #007BFF;
+    height: 40px;
+}
 
-li a:hover {
-    color: #0594D0;
+/* Style de l'icône du menu burger */
+.menu-icon {
+    font-size: 24px;
+    color: #fff;
+    cursor: pointer;
+    padding: 8px 16px;
+}
+
+/* Style du menu déroulant */
+.menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: none;
+    background-color: #fff;
+    position: absolute;
+    top: 40px;
+    left: 0;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.menu ul li {
+    padding: 10px;
+    text-align: center;
+}
+
+/* Affichage du menu au survol de l'icône */
+.menu:hover ul {
+    display: block;
 }
