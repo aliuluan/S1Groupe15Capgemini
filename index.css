@@ -1,5 +1,5 @@
 nav {
-    background-color: #333;
+    background-color: #003C57;
     color: white;
 }
 li a {
@@ -10,6 +10,5 @@ li a {
 
 
 li a:hover {
-    color: #ff6600;
+    color: #0594D0;
 }
-
