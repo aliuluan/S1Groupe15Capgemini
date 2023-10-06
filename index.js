@@ -1,16 +1,14 @@
-var sidenav = document.getElementById("mySidenav");
-var openBtn = document.getElementById("openBtn");
-var closeBtn = document.getElementById("closeBtn");
-
-openBtn.onclick = openNav;
-closeBtn.onclick = closeNav;
-
-/* Set the width of the side navigation to 250px */
-function openNav() {
-  sidenav.classList.add("active");
-}
-
-/* Set the width of the side navigation to 0 */
-function closeNav() {
-  sidenav.classList.remove("active");
-}
+function showResponsiveMenu() {
+    var menu = document.getElementById("topnav_responsive_menu");
+    var icon = document.getElementById("topnav_hamburger_icon");
+    var root = document.getElementById("root");
+    if (menu.className === "") {
+      menu.className = "open";
+      icon.className = "open";
+      root.style.overflowY = "hidden";
+    } else {
+      menu.className = "";                    
+      icon.className = "";
+      root.style.overflowY = "";
+    }
+  }
