@@ -4,41 +4,29 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="index.css">
-    <link rel="shortcut icon" href="Images/capgemini-logo.png" type="images/png">
+    <link rel="shortcut icon" href="Images/capgemini-logo.png" type="images/png"/>
     <script src="index.js"></script>
     <title>Accueil</title>
 </head>
 <body>
     <h1>Accueil</h1>
-    <div id="root">
-      <div id="topnav" class="topnav">
-        <a id="home_link" class="topnav_link" href="/">HOME</a>
-    
-        <!-- Classic Menu -->
-        <nav role="navigation" id="topnav_menu">
-          <a class="topnav_link" href="/about">ABOUT</a>
-          <a class="topnav_link" href="/contact-us">CONTACT</a>
-        </nav>
-    
-        <a id="topnav_hamburger_icon" href="javascript:void(0);" onclick="showResponsiveMenu()">
-          <!-- Some spans to act as a hamburger -->
-          <span></span>
-          <span></span>
-          <span></span>
-        </a>
-    
-        <!-- Responsive Menu -->
-        <nav role="navigation" id="topnav_responsive_menu">
-          <ul>
-            <li><a href="/">HOME</a></li>
-            <li><a href="/about">ABOUT</a></li>
-            <li><a href="/contact-us">CONTACT</a></li>
-            <li><a href="/privacy-policy">PRIVACY POLICY</a></li>
-            <li><a href="/terms-and-conditions">TERMS AND CONDITIONS</a></li>
-          </ul>
-        </nav>
-      </div>
+    <div id="mySidenav" class="sidenav">
+      <a id="closeBtn" href="#" class="close">&times;</a>
+      <ul>
+        <li><a href="#">A propos</a></li>
+        <li><a href="#">Nos services</a></li>
+        <li><a href="#">Témoignages</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
     </div>
+    
+    <a href="#" id="openBtn">
+      <span class="burger-icon">
+        <span></span>
+        <span></span>
+        <span></span>
+      </span>
+    </a>
     <nav>
         <ul>
             <li><a href="Histoire.html">Histoire</a></li>
