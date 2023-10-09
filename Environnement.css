@@ -8,6 +8,10 @@ p.nom{
     text-align:right;
 }
 
+li{
+    margin:10px 10px 10px 10px;
+}
+
 nav {
     background-color: #003C57;
     color: white;
@@ -20,6 +24,7 @@ li a {
 
 li a:hover {
     color: #0594D0;
+    transition-duration: 0.5s;
 }
 
 #menu__toggle {
