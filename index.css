@@ -8,9 +8,13 @@ li a {
     font-weight: bold;
 }
 
+li{
+  margin:10px 10px 10px 10px;
+}
 
 li a:hover {
-    color: #0594D0;
+  color: #0594D0;
+  transition-duration: 0.5s;
 }
 
 #menu__toggle {
