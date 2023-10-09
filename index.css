@@ -65,11 +65,12 @@ li a:hover {
   width: 300px;
   height: 100%;
   margin: 0;
-  padding: 80px 0;
+  padding: 80px 20px;
   list-style: none;
   background-color: #21435a;
   box-shadow: 2px 2px 6px rgba(0, 0, 0, .4);
-  transition-duration: .25s;
+  transition-duration: .5s;
+  font-size:large;
 }
 .menu__item {
   display: block;
