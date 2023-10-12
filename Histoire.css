@@ -8,6 +8,7 @@ p.nom{
     text-align:right;
 }
 
+/* Menu Burger*/
 nav {
     background-color: #003C57;
     color: white;
@@ -18,8 +19,13 @@ li a {
     font-weight: bold;
 }
 
+li{
+  margin:10px 10px 10px 10px;
+}
+
 li a:hover {
-    color: #0594D0;
+  color: #0594D0;
+  transition-duration: 0.5s;
 }
 
 #menu__toggle {
@@ -93,4 +99,5 @@ li a:hover {
 }
 .menu__item:hover {
   background-color: #CFD8DC;
+}
 }
