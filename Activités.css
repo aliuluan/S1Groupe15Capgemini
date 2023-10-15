@@ -106,8 +106,8 @@ li a:hover {
   display: flex;
   flex-wrap: wrap;
   list-style: none;
-  margin: 0;
-  padding: 0;
+  margin: 1px;
+  padding: 1px;
 }
 
 .breadcrumb li:not(:last-child)::after {
