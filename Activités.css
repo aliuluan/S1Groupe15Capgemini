@@ -99,7 +99,7 @@ li a:hover {
 }
 /*fil ariane*/
 .breadcrumb {
-  padding: 0 .5rem;
+  padding: 1px;
 }
 
 .breadcrumb ul {
