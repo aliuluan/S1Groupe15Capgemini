@@ -1,6 +1,10 @@
 h1{
     text-align: center;
 }
+h2{
+    right:30px;
+    font-weight:bold;
+}
 p.accroche{
     text-align: center;
 }
