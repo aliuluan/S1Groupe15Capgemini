@@ -2,6 +2,9 @@ h1.CapgeminiTitre{
     text-align:center;
     color: #0594D0;
 }
+.imageIntro{
+    align-items:center;
+}
 nav {
     background-color: #003C57;
     color: white;
