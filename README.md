@@ -7,7 +7,7 @@ https://aliuluan.github.io/S1Groupe15Capgemini/
 
 ## Membres du groupe :
 
-- [Aigubelle Arthur référent)](mailto:arthur.aigubelle@edu.univ-fcomte.fr?subject=SAE_1_05_06)  
+- [Aigubelle Arthur (référent)](mailto:arthur.aigubelle@edu.univ-fcomte.fr?subject=SAE_1_05_06)  
 - [Aliu Luan](mailto:luan.aliu@edu.univ-fcomte.fr?subject=SAE_1_05_06)   
 - [Arnoux Romain](mailto:romain.arnoux02@edu.univ-fcomte.fr?subject=SAE_1_05_06)
 - [Gaiffe Anna](mailto:anna.gaiffe@edu.univ-fcomte.fr?subject=SAE_1_05_06)   
