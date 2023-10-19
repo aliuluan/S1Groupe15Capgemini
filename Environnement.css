@@ -2,6 +2,7 @@ h1 {
   text-align: center;
   margin-top: 20px;
   color: #2A2F4F;
+  font-family: calibri;
 }
 
 .copyright {
@@ -15,6 +16,7 @@ p.accroche {
 
 div {
   color: #2A2F4F;
+  font-family: sans-dejavu;
 }
 
 p.nom {
@@ -46,6 +48,7 @@ section.texte {
 
 h2 {
   margin-bottom: 15px;
+  font-family: optima;
 }
 
 img.image_left {
