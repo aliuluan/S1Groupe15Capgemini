@@ -27,7 +27,8 @@ li a {
 }
 
 li{
-  margin:10px 10px 10px 10px;
+    margin:10px 10px 10px 10px;
+    color:#2A2F4F;
 }
 
 li a:hover {
