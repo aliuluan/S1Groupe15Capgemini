@@ -35,7 +35,7 @@ p {
 .liste {
     font-family: sans-dejavu;
     color: #2A2F4F;
-
+    padding: 10px;
 
 }
 
@@ -52,6 +52,7 @@ p.accroche {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    padding: 10px;
 }
 
 /*bloc chiffres-clés*/
