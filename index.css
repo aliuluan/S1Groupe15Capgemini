@@ -23,6 +23,11 @@ li a {
     font-weight: bold;
 }
 
+li a:hover{
+    color: #E5BEEC;
+    transition-duration: 0.5s;
+}
+
 li{
   margin:10px 10px 10px 10px;
 }
