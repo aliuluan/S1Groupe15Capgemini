@@ -1,11 +1,14 @@
+body{
+  background-color: #FDE2F3;
+  color: #2A2F4F;
+}
+
 h1{
     text-align: center;
-    color: #917FB3;
     font-family: Calibri;
 }
 
 h2{
-  color: #2A2F4F;
   font-family: Optima;
 }
 
