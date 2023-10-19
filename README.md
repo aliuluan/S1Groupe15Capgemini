@@ -7,16 +7,16 @@ https://aliuluan.github.io/S1Groupe15Capgemini/
 
 ## Membres du groupe :
 
-- [Aigubelle Arthur référent)](mailto:nom.prenom@edu.univ-fcomte.fr?subject=SAE_1_05_06)  
-- [Al](mailto:nom.prenom@edu.univ-fcomte.fr?subject=SAE_1_05_06)   
-- [Arnoux Romain](mailto:nom.prenom@edu.univ-fcomte.fr?subject=SAE_1_05_06)
-- [Nom prenom](mailto:nom.prenom@edu.univ-fcomte.fr?subject=SAE_1_05_06)   
-- [Nom prenom](mailto:nom.prenom@edu.univ-fcomte.fr?subject=SAE_1_05_06)  
+- [Aigubelle Arthur référent)](mailto:arthur.aigubelle@edu.univ-fcomte.fr?subject=SAE_1_05_06)  
+- [Aliu Luan](mailto:luan.aliu@edu.univ-fcomte.fr?subject=SAE_1_05_06)   
+- [Arnoux Romain](mailto:romain.arnoux02@edu.univ-fcomte.fr?subject=SAE_1_05_06)
+- [Gaiffe Anna](mailto:anna.gaiffe@edu.univ-fcomte.fr?subject=SAE_1_05_06)   
+- [Gueye Awa](mailto:awa.gueye@edu.univ-fcomte.fr?subject=SAE_1_05_06)  
 
 
 ## Présentation 
 
-Ce dépôt correspond à un site web créé en HTML/CSS/JS dans le cadre de la SAÉ 05-06 à l'IUT de Belfort-Montbéliard. Ce site présente des informations concernant l'entreprise ******** et sert de vitrine pour présenter l'entreprise, ses activité, son organisation et son historique. Vous trouverez dans ce dépôt et sur le site un rapport économique analysant l'aspect économique de ************. 
+Ce dépôt correspond à un site web créé en HTML/CSS/JS dans le cadre de la SAÉ 05-06 à l'IUT de Belfort-Montbéliard. Ce site présente des informations concernant l'entreprise Capgemini et sert de vitrine pour présenter l'entreprise, ses activité, son organisation et son historique. Vous trouverez dans ce dépôt et sur le site un rapport économique analysant l'aspect économique de Capgemini. 
 
 ## Choix de conception  
 
