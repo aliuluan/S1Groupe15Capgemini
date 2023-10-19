@@ -194,3 +194,6 @@ background-color: #ffffff;
 .menu-4 .current a {
   transform: translateY(100%);
 }
+.copyright{
+  color: aliceblue;
+}
