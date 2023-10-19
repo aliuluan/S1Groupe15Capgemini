@@ -27,7 +27,7 @@ Pour la conception du site, nous nous sommes grandement inspirés du site offici
 
 ### Page d'accueil
 
-**Auteur : Nom Prénom**  
+**Auteur : Aigubelle Arthur**  
 
 Vérification W3C : [Détail ICI]([https://validator.w3.org/nu/?doc=https%3A%2F%2Faliuluan.github.io%2FS1Groupe15Capgemini%2FHistoire.html])
 
