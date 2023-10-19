@@ -36,7 +36,7 @@ Vérification W3C : [Détail ICI]([https://validator.w3.org/nu/?doc=https%3A%2F%
 
 ou 
 
-<img src="doc/capture_1_W3C.png" style="width=400px" alt="capture ecran sur w3c">
+<img src="img/W3C_histoire.png" style="width=400px" alt="capture ecran sur w3c">
 
 
 <!--  style="width=400px" ne fonctionne pas -->
