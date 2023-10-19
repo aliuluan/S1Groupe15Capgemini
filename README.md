@@ -55,11 +55,11 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2F
 <br>
 <img src="img/W3C_economie.png" width="400px" alt="capture ecran sur w3c">
 
-### Page 
+### Page Activités
 
-**Auteur : **  
+**Auteur : Aliu Luan**  
 
-Verification W3C : [Détail ICI]()
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Faliuluan.github.io%2FS1Groupe15Capgemini%2FActivit%25C3%25A9s.html)
 
 <br>
 <img src="img/" width="400px" alt="capture ecran sur w3c">
