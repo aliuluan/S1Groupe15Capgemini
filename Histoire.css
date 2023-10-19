@@ -64,21 +64,23 @@ p.nom{
 
 /*fil ariane*/
 .breadcrumb {
-  padding: 10px;
+background-color: #003C57;
+color: white;
+padding: 10px;
 }
 
 .breadcrumb ul {
-  display: flex;
-  flex-wrap: wrap;
-  list-style: none;
-  margin: 1px;
-  padding: 1px;
+display: flex;
+flex-wrap: wrap;
+list-style: none;
+margin: 1px;
+padding: 1px;
 }
 
 .breadcrumb li:not(:last-child)::after {
-  display: inline-block;
-  margin: 0 .25rem;
-  content: " →";
+display: inline-block;
+margin: 0 .25rem;
+content: " →";
 }
 
 /*Footer*/
