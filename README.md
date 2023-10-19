@@ -1,7 +1,7 @@
 https://aliuluan.github.io/S1Groupe15Capgemini/
 # projetcapgemini 
 
-## Sujet    
+## Capgemini    
 
 [Capgemini](https://aliuluan.github.io/S1Groupe15Capgemini/)
 
