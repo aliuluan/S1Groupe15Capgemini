@@ -1,20 +1,116 @@
-body{
+body {
   background-color: #FDE2F3;
   color: #2A2F4F;
 }
 
-h1{
-    text-align: center;
+.marge {
+  margin: 10px;
+}
+
+h1 {
+  text-align: center;
+  color: #2A2F4F;
+
+  p {
     font-family: Calibri;
+  }
 }
 
-h2{
-  font-family: Optima;
+h2 {
+  color: #2A2F4F;
+
+  p {
+    font-family: Optima;
+  }
 }
 
-p.accroche{
-    text-align: center;
+p {
+  padding: 20px;
+
 }
+
+p.accroche {
+  text-align: center;
+}
+
+.centrage{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.chiffres-clés{
+  background-color: #917FB3;
+  border: 10px;
+  border-color: #917FB3;
+}
+
+.div1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #917FB3;
+}
+
+.div2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #917FB3;
+}
+
+.monde {
+  display: flex;
+  padding-right: 10px;
+  justify-content: space-evenly;
+
+}
+
+.perf{
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+
+}
+
+
+#monde{
+  display: flex;
+  align-self: center;
+  justify-self: center;
+
+}
+
+#monde2{
+  display: flex;
+  align-self: center;
+  justify-self: center;
+
+}
+.titre{
+  display: flex;
+  justify-self: start;
+  align-self: center;
+}
+
+
+.performance {
+  display: flex;
+
+}
+
+/*bouton télécharger*/
+
+.bouton-telecharger {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #917FB3;
+  color: #2A2F4F;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
 
 /*fil ariane*/
 .breadcrumb {
