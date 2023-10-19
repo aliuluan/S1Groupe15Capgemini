@@ -25,16 +25,12 @@ Pour la conception du site, nous nous sommes grandement inspirés du site offici
 
 ## Développement Site Web et Validation des pages
 
-### Page d'accueil
+### Page Histoire
 
 **Auteur : Aigubelle Arthur**  
 
 Vérification W3C : [Détail ICI]([https://validator.w3.org/nu/?doc=https%3A%2F%2Faliuluan.github.io%2FS1Groupe15Capgemini%2FHistoire.html])
 
-
-![capture d'écran de la conformité de la page ...](S1Groupe15Capgemini/img/W3C_histoire.png)
-
-ou 
 
 <img src="img/W3C_histoire.png" style="width=400px" alt="capture ecran sur w3c">
 
