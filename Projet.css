@@ -20,7 +20,7 @@ p{
     grid-template-rows: repeat(1, 1fr);
     gap: 50px;
     color: #2a2f4f;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
    } 
    
    .Div1 p span{
@@ -33,7 +33,7 @@ p{
       grid-template-columns: repeat(2, 1fr);
       grid-template-rows: repeat(1, 1fr);
       color: #2a2f4f;
-      font-size: 1.2rem;
+      font-size: 1.1rem;
       
     }
    
@@ -44,7 +44,7 @@ p{
   grid-template-rows: repeat(1, 1fr);
   color: #2a2f4f;
   gap: 50px;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 
 @media screen and (max-width:850px){
