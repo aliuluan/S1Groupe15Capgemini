@@ -7,7 +7,16 @@ h1.CapgeminiTitre{
     width: 30%;
     margin: auto;
 }
-
+.bouton{
+        width: 100%;
+      padding: 10px;
+      border: none;
+      background: #2A2F4F; 
+      font-size: 16px;
+      font-weight: 400;
+      color: #fff;
+      border-radius: 45px; 
+}
 li a {
     text-decoration: none;
     color: white;
