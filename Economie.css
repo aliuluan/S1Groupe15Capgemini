@@ -19,7 +19,7 @@ h1 {
 /*sous-titres*/
 h2 {
     font-family: Optima;
-    font-size: 20px;
+    font-size: 25px;
     color: #2A2F4F;
 
 }
@@ -27,7 +27,7 @@ h2 {
 p {
     padding: 20px;
     font-family: sans-dejavu;
-    font-size: 15px;
+    font-size: 20px;
     color: #2A2F4F;
 
 }
@@ -43,7 +43,7 @@ p {
 p.accroche {
     text-align: center;
     font-family: sans-dejavu;
-    font-size: 15px;
+    font-size: 20px;
 }
 
 /*centre le bloc*/
