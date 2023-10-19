@@ -56,31 +56,36 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 
 ### Planification - Diagramme de GANTT
 
-- Nom Prénom
+- Aigubelle Arthur
 
 ### Recherches d'informations
 
-- Nom Prénom
-- Nom Prénom
+- Gaiffe Anna
+- Gueye Awa
 
 
 ### Rapport économique
 
-- Nom Prénom
-- Nom Prénom
-- Nom Prénom
+- Gaiffe Anna
+- Gueye Awa
+- Aliu Luan
+- Aigubelle Arthur
+- Arnoux Romain
 
 ### Développement site
 
-- Nom Prénom
-  - Page d’accueil
+- Arnoux Romain
   - "Template" de page (Navbar/Footer)
-  - Page présentation
-- Nom Prénom
+  - Page Environnement
+- Aigubelle Arthur
   - Page histoire
-- Nom Prénom
-  - Page organisation
-
+- Gaiffe Anna
+  - Page Economie
+- Gueye Awa
+  - Page Projet
+- Aliu Luan
+  - Page Activités
+  - file d'ariane 
 
 
 
