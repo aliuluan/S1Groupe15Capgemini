@@ -22,6 +22,7 @@ img{
 p{
   color:#2A2F4F;
 }
+
 .ariane{
 	color:#FDE2F3;
 }
@@ -54,7 +55,6 @@ margin: 0 .25rem;
 content: " →";
 }
 
-/*Footer*/
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 body{
 line-height: 1.5;
@@ -77,7 +77,7 @@ ul{
 list-style: none;
 }
 .footer{
-background-color: #2A2F4F;
+background-color: #003C57;
   padding: 70px 0;
 }
 .footer-col{
@@ -148,7 +148,6 @@ background-color: #ffffff;
   width: 100%;
 }
 }
-
 
 .menu-4 {
   text-align: center;
