@@ -248,4 +248,6 @@ section {
     height: auto; /* Maintain image aspect ratio */
     border-radius: 10px; /* Adjust the radius as needed for the desired amount of rounding */
 }
-
+.copyright{
+  color: aliceblue;
+}
