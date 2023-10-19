@@ -46,6 +46,14 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2F
 <br>
 <img src="img/W3C_projet.png" width="400px" alt="capture ecran sur w3c">
 
+### Page Economie
+
+**Auteur : Gaiffe Anna**  
+
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Faliuluan.github.io%2FS1Groupe15Capgemini%2FEconomie.html)
+
+<br>
+<img src="img/W3C_projet.png" width="400px" alt="capture ecran sur w3c">
 
 
 ## Répartition du travail
