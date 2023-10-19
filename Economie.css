@@ -1,12 +1,12 @@
 h1{
     text-align: center;
     color: #917FB3;
-    p{font-family: Calibri;}
+    font-family: Calibri;
 }
 
 h2{
   color: #2A2F4F;
-  p{font-family: Optima;}
+  font-family: Optima;
 }
 
 p.accroche{
