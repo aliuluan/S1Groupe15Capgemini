@@ -2,10 +2,12 @@ body{
   background-color:#FDE2F3 ;
 }
 h1{
+  font-family: calibri;
   text-align: center;
   color:#2A2F4F;
 }
 h2{
+  font-family: optima;
   right:30px;
   font-weight:bold;
   color:#2A2F4F;
@@ -20,6 +22,7 @@ img{
   width: 30%;
 }
 p{
+  font-family: sans-dejavu;
   color:#2A2F4F;
 }
 
@@ -32,12 +35,15 @@ p.accroche{
 	border: solid 3px #2A2F4F;
 	background-color: #FDE2F3;
 }
+li{
+  font-family: DejaVu sans;
+}
 
 
 /*fil ariane*/
 .breadcrumb {
-background-color: #003C57;
-color: white;
+background-color: #2A2F4F;
+color: #FDE2F3;
 padding: 10px;
 }
 
@@ -77,7 +83,7 @@ ul{
 list-style: none;
 }
 .footer{
-background-color: #003C57;
+  background-color: #2A2F4F;
   padding: 70px 0;
 }
 .footer-col{
