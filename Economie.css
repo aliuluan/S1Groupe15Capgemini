@@ -11,7 +11,7 @@ body {
 h1 {
     text-align: center;
     font-family: Calibri;
-    font-size: 50px;
+    font-size: 40px;
     color: #2A2F4F;
 
 }
@@ -19,7 +19,7 @@ h1 {
 /*sous-titres*/
 h2 {
     font-family: Optima;
-    font-size: 30px;
+    font-size: 20px;
     color: #2A2F4F;
 
 }
@@ -27,7 +27,7 @@ h2 {
 p {
     padding: 20px;
     font-family: sans-dejavu;
-    font-size: 20px;
+    font-size: 15px;
     color: #2A2F4F;
 
 }
@@ -43,7 +43,7 @@ p {
 p.accroche {
     text-align: center;
     font-family: sans-dejavu;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 /*centre le bloc*/
