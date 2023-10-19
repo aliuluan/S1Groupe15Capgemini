@@ -5,6 +5,9 @@ h2{
     right:30px;
     font-weight:bold;
 }
+p{
+    text-color:#2A2F4F;
+}
 p.accroche{
     text-align: center;
 }
