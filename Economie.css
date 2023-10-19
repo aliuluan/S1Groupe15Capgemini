@@ -154,9 +154,7 @@ margin:auto;
 display: flex;
 flex-wrap: wrap;
 }
-ul{
-list-style: none;
-}
+
 .footer{
 background-color: #003C57;
   padding: 70px 0;
