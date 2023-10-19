@@ -22,7 +22,7 @@ img{
   width: 30%;
 }
 p{
-  font-family: dejavu 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: sans-dejavu;
   color:#2A2F4F;
 }
 
@@ -206,4 +206,7 @@ background-color: #ffffff;
 .menu-4 li:hover a,
 .menu-4 .current a {
   transform: translateY(100%);
+}
+.copyright{
+  color: aliceblue;
 }
