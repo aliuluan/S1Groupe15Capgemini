@@ -1,8 +1,8 @@
-body{
+body {
     background-color: #fde2f3;
-  }
+}
 
-  /*marge*/
+/*marge*/
 .marge {
     margin: 10px;
 }
@@ -10,30 +10,40 @@ body{
 /*titre*/
 h1 {
     text-align: center;
+    font-family: Calibri;
+    font-size: 50px;
     color: #2A2F4F;
 
-    p {
-        font-family: Calibri;
-    }
 }
 
 /*sous-titres*/
 h2 {
+    font-family: Optima;
+    font-size: 30px;
     color: #2A2F4F;
 
-    p {
-        font-family: Optima;
-    }
 }
 
 p {
     padding: 20px;
+    font-family: sans-dejavu;
+    font-size: 20px;
+    color: #2A2F4F;
+
+}
+
+.liste {
+    font-family: sans-dejavu;
+    color: #2A2F4F;
+
 
 }
 
 /*accroche*/
 p.accroche {
     text-align: center;
+    font-family: sans-dejavu;
+    font-size: 20px;
 }
 
 /*centre le bloc*/
@@ -92,7 +102,7 @@ p.accroche {
     background-color: #917FB3;
     box-shadow: 0px 1px 10px 0px black;
     padding-left: 10px;
-    
+
 
 }
 
@@ -100,7 +110,7 @@ p.accroche {
     display: flex;
     justify-content: center;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
 
 }
 
