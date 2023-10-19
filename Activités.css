@@ -22,9 +22,12 @@ img{
 p{
   color:#2A2F4F;
 }
+.ariane{
+	color:#FDE2F3;
+}
 p.accroche{
 	text-align: center;
-  font-weight:bold;
+ 	font-weight:bold;
 	border: solid 3px #2A2F4F;
 	background-color: #FDE2F3;
 }
