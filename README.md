@@ -37,11 +37,11 @@ Vérification W3C : [Détail ICI]([https://validator.w3.org/nu/?doc=https%3A%2F%
 
 <!--  style="width=400px" ne fonctionne pas -->
 
-### Présentation générale
+### Page Projet
 
-**Auteur : Nom Prénom**  
+**Auteur : Gueye Awa**  
 
-Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Faliuluan.github.io%2FS1Groupe15Capgemini%2FProjet.html)
 
 <br>
 <img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
