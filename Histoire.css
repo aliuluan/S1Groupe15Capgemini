@@ -214,3 +214,34 @@ ul{
     width: 100%;
 }
 }
+main {
+    background-color: #FDE2F3;
+}
+
+main h2 {
+    font-family: Calibri;
+    color: #2A2F4F;
+}
+
+main p {
+    font-family: 'DejaVu Sans';
+    background-color: #917FB3;
+    color: #2A2F4F;
+}
+
+section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px 0;
+}
+
+.content {
+    width: 50%;
+    padding: 20px;
+}
+
+.image {
+    width: 40%;
+    /* Ajoutez ici des styles pour les images si nécessaire */
+}
