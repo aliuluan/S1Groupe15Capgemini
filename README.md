@@ -1,17 +1,17 @@
 https://aliuluan.github.io/S1Groupe15Capgemini/
-# projetcapgemini
-Groupe 15:
-# Titre sujet   
+# projetcapgemini 
 
 ## Sujet    
 
-Capgemini (https://aliuluan.github.io/S1Groupe15Capgemini/)
+[Capgemini](https://aliuluan.github.io/S1Groupe15Capgemini/)
 
 ## Membres du groupe :
 
-- [Nom prenom (référent)](mailto:nom.prenom@edu.univ-fcomte.fr?subject=SAE_1_05_06)  
+- [Aigubelle Arthur référent)](mailto:nom.prenom@edu.univ-fcomte.fr?subject=SAE_1_05_06)  
+- [Al](mailto:nom.prenom@edu.univ-fcomte.fr?subject=SAE_1_05_06)   
+- [Arnoux Romain](mailto:nom.prenom@edu.univ-fcomte.fr?subject=SAE_1_05_06)
 - [Nom prenom](mailto:nom.prenom@edu.univ-fcomte.fr?subject=SAE_1_05_06)   
-- [Nom prenom](mailto:nom.prenom@edu.univ-fcomte.fr?subject=SAE_1_05_06)   
+- [Nom prenom](mailto:nom.prenom@edu.univ-fcomte.fr?subject=SAE_1_05_06)  
 
 
 ## Présentation 
