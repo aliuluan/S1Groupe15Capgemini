@@ -32,7 +32,7 @@ Pour la conception du site, nous nous sommes grandement inspirés du site offici
 Vérification W3C : [Détail ICI]([https://validator.w3.org/nu/?doc=https%3A%2F%2Faliuluan.github.io%2FS1Groupe15Capgemini%2FHistoire.html])
 
 
-![capture d'écran de la conformité de la page ...](doc/capture_1_W3C.png)
+![capture d'écran de la conformité de la page ...]([doc/capture_1_W3C.png](https://github.com/aliuluan/S1Groupe15Capgemini/blob/main/img/W3C_histoire.png))
 
 ou 
 
