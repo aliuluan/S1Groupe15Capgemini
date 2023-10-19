@@ -165,7 +165,7 @@ background-color: #ffffff;
 }
 .menu-4 a {
   padding: 0.3em 0;
-  color: #212121;
+  color: #2A2F4F;
   position: relative;
   display: inline-block;
   letter-spacing: 1px;
@@ -192,7 +192,7 @@ background-color: #ffffff;
   bottom: 100%;
   left: 0;
   content: attr(data-hover);
-  color: #212121;
+  color: #2A2F4F;
   white-space: nowrap;
 }
 .menu-4 li:hover a,
