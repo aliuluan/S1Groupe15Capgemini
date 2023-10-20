@@ -107,7 +107,8 @@ Verification W3C : [Détail ICI](https://aliuluan.github.io/S1Groupe15Capgemini/
   - Page Projet
 - Aliu Luan
   - Page Activités
-  - file d'ariane 
+  - file d'ariane
+  - formulaire de contact
 
 
 
