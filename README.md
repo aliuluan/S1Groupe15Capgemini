@@ -25,6 +25,16 @@ Pour la conception du site, nous nous sommes grandement inspirés du site offici
 
 ## Développement Site Web et Validation des pages
 
+### Index
+
+**Auteur : Arnoux,Aliu,Aigubelle**  
+
+Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Faliuluan.github.io%2FS1Groupe15Capgemini%2Findex.html)
+
+<br>
+<img src="img/W3C_histoire.png" width="400px" alt="capture ecran sur w3c">
+
+
 ### Page Histoire
 
 **Auteur : Aigubelle Arthur**  
