@@ -41,12 +41,6 @@ p.nom{
   margin: 0;
   text-decoration: none;
 }
-.menu-4 a:before,
-.menu-4 a:after {
-  position: absolute;
-  -webkit-transition: all 0.35s ease;
-  transition: all 0.35s ease;
-}
 .menu-4 a:before {
   bottom: 100%;
   display: block;
