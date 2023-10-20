@@ -21,15 +21,14 @@ h1 {
 }
 
 .bouton {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #917FB3;
-    color: #2A2F4F;
-    text-decoration: none;
-    border-radius: 10px;
-    margin: 10px;
-    box-shadow: 0px 5px 10px 0px black;
-    padding: 20px;
+  width: 100%;
+  padding: 10px;
+  border: none;
+  background: #2A2F4F;
+  font-size: 16px;
+  font-weight: 400;
+  color: #fff;
+  border-radius: 45px;
 }
 
 li a {
@@ -279,13 +278,7 @@ button {
   text-transform: uppercase;
 }
 
-ul {
-  display: flex;
-  list-style: none;
-  justify-content: space-around;
-  align-items: baseline;
-  padding: 0;
-}
+
 
 .subscriber-count {
   font-size: 22px;
