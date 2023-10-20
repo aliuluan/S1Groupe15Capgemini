@@ -76,7 +76,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2F
 
 **Auteur : Arnoux Romain**  
 
-Verification W3C : [Détail ICI](https://aliuluan.github.io/S1Groupe15Capgemini/Environnement.html)
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Faliuluan.github.io%2FS1Groupe15Capgemini%2FEnvironnement.html)
 
 <br>
 <img src="img/W3C_environnement.png" width="400px" alt="capture ecran sur w3c">
