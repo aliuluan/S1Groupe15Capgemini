@@ -32,7 +32,7 @@ Pour la conception du site, nous nous sommes grandement inspirés du site offici
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Faliuluan.github.io%2FS1Groupe15Capgemini%2FHistoire.html)
 
 
-<img src="img/W3C_histoire.png" style="width=400px" alt="capture ecran sur w3c">
+<img src="img/W3C_histoire.png" width="400px" alt="capture ecran sur w3c">
 
 
 <!--  style="width=400px" ne fonctionne pas -->
