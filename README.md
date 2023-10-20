@@ -108,5 +108,9 @@ Verification W3C : [Détail ICI](https://aliuluan.github.io/S1Groupe15Capgemini/
   - file d'ariane
   - formulaire de contact
 
+### Contribution site
+
+<img src="" width="400px" alt="capture ecran">
+
 
 
