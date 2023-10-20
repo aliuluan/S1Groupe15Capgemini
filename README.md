@@ -110,7 +110,7 @@ Verification W3C : [Détail ICI](https://aliuluan.github.io/S1Groupe15Capgemini/
 
 ### Contribution site
 
-<img src="" width="400px" alt="capture ecran">
+<img src="img/contributor.png" width="400px" alt="capture ecran">
 
 
 
